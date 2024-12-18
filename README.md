@@ -14,7 +14,7 @@ Aqui não é só um repositório, é o playground onde transformo café ☕ em c
 Vamos criar o futuro, linha por linha! <br><br><br><br><br><br><br><br><br><br><br>
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"> 
 
-<p align="center">
+<p align="">
   #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação
 </p>
 
