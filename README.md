@@ -13,7 +13,9 @@ Minha Jornada de Desenvolvimento:
 Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡
 Vamos criar o futuro, linha por linha! 
 
-#EmBuscaDoPróximoNível #DesenvolvedorEmFormação
+<p align="center">
+  #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação
+</p>
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif">
 
 
