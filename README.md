@@ -1,8 +1,8 @@
 🚀 Bem-vindo ao meu universo de código!
 
-🎓 Olá, meu nome é Leonardo, sou um Recruta em Missão de transformar ideias em realidade tecnológica.🚀 <br><br>
-💻 Mergulhando no mundo Full Stack JavaScript  <br>
-🌟 Transformando linhas de código em soluções inovadoras <br>
+🎓 Olá, meu nome é Leonardo, sou um Recruta em Missão de transformar ideias em realidade tecnológica.🚀 <br>
+💻 Mergulhando no mundo Full Stack JavaScript.  <br>
+🌟 Transformando linhas de código em soluções inovadoras. <br><br>
 📡 Minha Base de Operações <br>
 Aqui não é só um repositório, é meu campo de treinamento digital! <br> 💻
 Transformando conhecimento em linhas de código, aprendendo e evoluindo a cada commit. <br>
