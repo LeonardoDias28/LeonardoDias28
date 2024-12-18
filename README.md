@@ -17,7 +17,8 @@ Aqui não é só um repositório, é o playground onde transformo café ☕ em c
 Vamos criar o futuro, linha por linha! 
 #EmBuscaDoPróximoNível #DesenvolvedorEmFormação
 
-![Coding](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 
 <!---
 LeonardoDias28/LeonardoDias28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
