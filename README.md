@@ -1,8 +1,8 @@
 🚀 Bem-vindo ao meu universo de código!
 
-Olá, sou Leonardo! 🎓👋 
-💻 Mergulhando no mundo Full Stack JavaScript 
-🌟 Transformando linhas de código em soluções inovadoras
+Olá, sou Leonardo! 🎓👋  <br>
+💻 Mergulhando no mundo Full Stack JavaScript  <br>
+🌟 Transformando linhas de código em soluções inovadoras 
 
 Minha Jornada de Desenvolvimento:
 - 🔍 Explorando cada função, cada componente
