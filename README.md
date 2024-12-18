@@ -16,7 +16,7 @@ Minha Jornada de Desenvolvimento:
 
 
 🚀🖥️ Vamos criar o futuro, linha por linha! 💡👩‍💻 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"> 
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"> 
 
 <p align="">
   #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação | #RecrutaDeTI | #AprendizDeCódigo | #MissãoProgramação
