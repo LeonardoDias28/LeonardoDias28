@@ -17,7 +17,8 @@ Aqui não é só um repositório, é o playground onde transformo café ☕ em c
 Vamos criar o futuro, linha por linha! 
 #EmBuscaDoPróximoNível #DesenvolvedorEmFormação
 
-![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+ ![Welcome](https://media.giphy.com/media/l0HlQ7LRalQqdWfmU/giphy.gif)
+
 
 
 <!---
