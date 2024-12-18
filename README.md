@@ -9,13 +9,18 @@ Minha Jornada de Desenvolvimento:
 - 🌈 Construindo pontes entre ideias e implementação
 - 🚀 Sempre em busca de novos desafios e aprendizados
 
-**Recrutas de plantão:** <br>
-Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡 <br>
-Vamos criar o futuro, linha por linha! 
+🚀 Recruta em Missão de Código! <br>
+📡 Minha Base de Operações <br>
+Aqui não é só um repositório, é meu campo de treinamento digital! <br> 💻
+Transformando conhecimento em linhas de código, aprendendo e evoluindo a cada commit.
+🎯 Objetivo da Missão: <br>
+Dominar o universo do desenvolvimento, um desafio de cada vez! <br>
+
+🚀🖥️ Vamos criar o futuro, linha por linha! 💡👩‍💻 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"> 
 
 <p align="">
-  #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação
+  #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação | #RecrutaDeTI | #AprendizDeCódigo | #MissãoProgramação
 </p>
 
 
