@@ -1,8 +1,6 @@
 🚀 Bem-vindo ao meu universo de código!
 
-Olá, sou Leonardo! 👋
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+Olá, sou Leonardo! 🎓👋 
 💻 Mergulhando no mundo Full Stack JavaScript 
 🌟 Transformando linhas de código em soluções inovadoras
 
@@ -13,11 +11,12 @@ Minha Jornada de Desenvolvimento:
 
 **Recrutas de plantão:** 
 Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡
-
 Vamos criar o futuro, linha por linha! 
+
 #EmBuscaDoPróximoNível #DesenvolvedorEmFormação
 
- ![Hi](https://media.giphy.com/media/26ufnwz5wBQxqzQQw/giphy.gif)
+![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 
