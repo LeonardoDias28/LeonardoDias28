@@ -1,6 +1,6 @@
 🚀 Bem-vindo ao meu universo de código!
 
-🎓 Olá, meu nome é Leonardo, sou um Recruta em Missão de transformar ideias em realidade tecnológica.🚀 <br>
+🎓 Olá, meu nome é Leonardo, sou um Recruta em Missão de transformar ideias em realidade tecnológica.🚀 <br><br>
 💻 Mergulhando no mundo Full Stack JavaScript  <br>
 🌟 Transformando linhas de código em soluções inovadoras <br>
 📡 Minha Base de Operações <br>
