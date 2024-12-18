@@ -9,8 +9,8 @@ Minha Jornada de Desenvolvimento:
 - 🌈 Construindo pontes entre ideias e implementação
 - 🚀 Sempre em busca de novos desafios e aprendizados
 
-**Recrutas de plantão:** 
-Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡
+**Recrutas de plantão:** <br>
+Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡 <br>
 Vamos criar o futuro, linha por linha! 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif">
 
