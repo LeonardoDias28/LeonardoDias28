@@ -12,7 +12,7 @@ Minha Jornada de Desenvolvimento:
 **Recrutas de plantão:** <br>
 Aqui não é só um repositório, é o playground onde transformo café ☕ em código 💡 <br>
 Vamos criar o futuro, linha por linha! 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"> <br>
 
 <p align="center">
   #EmBuscaDoPróximoNível | #DesenvolvedorEmFormação
