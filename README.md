@@ -36,7 +36,7 @@ Minha Jornada de Desenvolvimento:
 
 <br>
 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### "Siga-me nas redes sociais para conteúdo exclusivo sobre programação!"
 
 <div> 
 
